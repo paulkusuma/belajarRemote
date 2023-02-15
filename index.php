@@ -9,5 +9,9 @@
 <body>
     <h1>hello world</h1>
     <p>gatau paragraf apaa</p>
+    <ul>
+        <li> sata</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
